@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/scenes/open.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/Title.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/New Scene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/scenes/studio logo.unity
+  isLoaded: 0
+  isActive: 0
