@@ -1,6 +1,6 @@
 sceneSetups:
 - path: Assets/scenes/open.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Title.unity
   isLoaded: 0
